@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science student with over 9 years of IT experience. My skills include:
+I'm a Computer Science student with over 9 years of professional IT experience. My skills include:
 
 - **Python**
 - **Java**
