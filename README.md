@@ -6,7 +6,7 @@ I'm a Computer Science student with over 9 years of professional IT experience. 
 - **Java**
 - **SQL**
 - **APIs**
-- **BluePrism RPA (Associate Certified)**
+- **BluePrism RPA (Associate Developer Certified)**
 
 Passionate about tech and problem-solving. Let's connect!
 
