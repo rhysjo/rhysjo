@@ -8,6 +8,11 @@ I'm a Computer Science student with over 9 years of professional IT experience. 
 - **APIs**
 - **BluePrism RPA (Associate Developer Certified)**
 
+I'm also in the process of learning Web Development:
+- **HTML**
+- **CSS**
+- **JavaScript**
+
 Passionate about tech and problem-solving. Let's connect!
 
 🌐 [LinkedIn](https://www.linkedin.com/in/rhysoshea97/)
