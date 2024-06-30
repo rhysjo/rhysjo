@@ -17,4 +17,4 @@ Passionate about tech and problem-solving. Let's connect!
 
 🌐 [LinkedIn](https://www.linkedin.com/in/rhysoshea97/)
 
-I'm using Github to store learning material (online courses and challenges) at the moment but will be building a portfolio as time goes on.
+I'm using Github to store learning material (online courses and challenges) at the moment but will be building a portfolio as I develop my skills.
