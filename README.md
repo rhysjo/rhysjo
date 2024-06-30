@@ -15,6 +15,6 @@ I'm also in the process of learning Web Development:
 
 Passionate about tech and problem-solving. Let's connect!
 
-🌐 [LinkedIn](https://www.linkedin.com/in/rhysoshea97/)
+🌐 [LinkedIn](https://www.linkedin.com/in/rhysoshea97/) 📖 [Portfolio](https://rhysjo.github.io/)
 
 I'm using Github to store learning material (online courses and challenges) at the moment but will be building a portfolio as I develop my skills.
