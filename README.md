@@ -7,8 +7,6 @@ I'm a Certified Blue Prism Associate Developer and Computer Science & Full Stack
 - **SQL**
 - **APIs**
 - **BluePrism RPA (Associate Developer Certified)**
-
-I'm also in the process of learning Web Development:
 - **HTML**
 - **CSS**
 - **JavaScript**
